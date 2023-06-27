@@ -4,7 +4,7 @@
 
 Caso queira utilizar esse esquema os requisitos são:
   - Docker (recomendo usar o WSL2)
-  - Docker-compose (geralmente vem com o docker)
+  - Docker-compose
   - Um terminal de sua preferência
 
 ## Começar
